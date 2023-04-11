@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\cartographer",
+    "\\src\\cartographer\\cartographer",
+    "\\src\\cartographer\\cartographer\\mapping",
+    "\\src\\cartographer\\cartographer\\mapping\\internal",
+    "\\src\\cartographer\\cartographer\\mapping\\internal\\2d"
+  ],
+  "PreviewInSolutionExplorer": false
+}
