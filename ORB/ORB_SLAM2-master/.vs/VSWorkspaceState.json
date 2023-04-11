@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Examples",
+    "\\Examples\\Monocular",
+    "\\include",
+    "\\src",
+    "\\Thirdparty",
+    "\\Thirdparty\\DBoW2",
+    "\\Thirdparty\\DBoW2\\DBoW2",
+    "\\Vocabulary"
+  ],
+  "SelectedNode": "\\include\\KeyFrame.h",
+  "PreviewInSolutionExplorer": false
+}
